@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stephenieshelorrqh35-png.github.io/panne-volet-roulant-electrique-ou-s-fran-gemini-784c92afd0/sitemap.xml
